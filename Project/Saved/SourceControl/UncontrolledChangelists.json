@@ -5,7 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/lose.umap",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/win.umap",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/MainMenu1.umap",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/MainMenu.uasset",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/LevelEnd1.umap",
+				"C:/Users/TEMP.AUSTD.003/Documents/GitHub/design-level/Project/Content/LevelEnd.uasset"
 			]
 		}
 	]
